@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="malls">
+        <item>The Forum</item>
+        <item>Garuda Mall</item>
+        <item>Orion Mall</item>
+        <item>Mantri Square</item>
+        <item>Phoenix Market City</item>
+        <item>Garuda Mall</item>
+    </array>
+
+</resources>
